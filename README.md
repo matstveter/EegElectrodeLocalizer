@@ -3,7 +3,9 @@
 ## Description
 This tool is designed to automatically localize fiducials and EEG electrodes from a 3D scan. It was primarily 
 developed to explore the feasibility of such a solution and to scientifically evaluate its performance. The article
-can be found here () and all information about the pipeline and assumptions can be found there.
+can be found here (TBA) and all information about the pipeline and assumptions can be found there.
+
+IMPORTANT: This tool was designed for use on a single dataset, utilizing one supplier's EEG cap in two different sizes. Some of the code may need to be repurposed for use with another dataset.
 
 ## Features
 - Localize the fiducials 
