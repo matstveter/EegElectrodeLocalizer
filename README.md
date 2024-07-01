@@ -3,7 +3,7 @@
 ## Description
 This tool is designed to automatically localize fiducials and EEG electrodes from a 3D scan. It was primarily 
 developed to explore the feasibility of such a solution and to scientifically evaluate its performance. The article
-can be found here (TBA) and all information about the pipeline and assumptions can be found there.
+can be found as a preprint here (https://www.biorxiv.org/content/10.1101/2024.06.27.600334v1) and all information about the pipeline and assumptions can be found there.
 
 ### IMPORTANT: This tool is initially designed for a single dataset using EEG caps from one supplier in two sizes. For compatibility with other datasets or suppliers' EEG caps, some code modifications might be necessary.
 
@@ -34,5 +34,15 @@ can be found here (TBA) and all information about the pipeline and assumptions c
 3. python3 main.py
 
 
-## Scientific work
-If this code has been used for scientific purposes, please cite this article: TBA
+## Citation
+@article {Tveter2024.06.27.600334,
+	author = {Tveter, Mats and Tveitstol, Thomas and Nygaard, Tonnes and Perez T., Ana S. and Kulashekhar, Shrikanth and Bruna, Ricard and Hammer, Hugo L. and Hatlestad-Hall, Christoffer and Hebold Haraldsen, Ira R. J.},
+	title = {EEG Electrodes and Where to Find Them: Automated Localization From 3D Scans},
+	elocation-id = {2024.06.27.600334},
+	year = {2024},
+	doi = {10.1101/2024.06.27.600334},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2024/06/30/2024.06.27.600334},
+	eprint = {https://www.biorxiv.org/content/early/2024/06/30/2024.06.27.600334.full.pdf},
+	journal = {bioRxiv}
+}
