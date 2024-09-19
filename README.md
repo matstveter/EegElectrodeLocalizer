@@ -35,14 +35,12 @@ can be found as a preprint here (https://www.biorxiv.org/content/10.1101/2024.06
 
 
 ## Citation
-@article {Tveter2024.06.27.600334,
-	author = {Tveter, Mats and Tveitstol, Thomas and Nygaard, Tonnes and Perez T., Ana S. and Kulashekhar, Shrikanth and Bruna, Ricard and Hammer, Hugo L. and Hatlestad-Hall, Christoffer and Hebold Haraldsen, Ira R. J.},
-	title = {EEG Electrodes and Where to Find Them: Automated Localization From 3D Scans},
-	elocation-id = {2024.06.27.600334},
-	year = {2024},
-	doi = {10.1101/2024.06.27.600334},
-	publisher = {Cold Spring Harbor Laboratory},
-	URL = {https://www.biorxiv.org/content/early/2024/06/30/2024.06.27.600334},
-	eprint = {https://www.biorxiv.org/content/early/2024/06/30/2024.06.27.600334.full.pdf},
-	journal = {bioRxiv}
+Please cite this paper if the code is used:
+
+@article{10.1088/1741-2552/ad7c7e,
+	author={Tveter, Mats and Tveitstøl, Thomas and Nygaard, Tønnes and Pérez T, Ana S and Kulashekhar, Shrikanth and Bruña, Ricardo and Hammer, Hugo Lewi and Hatlestad-Hall, Christoffer and Hebold Haraldsen, Ira Ronit Juleica},
+	title={EEG electrodes and where to find them: automated localization from 3D scans},
+	journal={Journal of Neural Engineering},
+	url={http://iopscience.iop.org/article/10.1088/1741-2552/ad7c7e},
+	year={2024},
 }
