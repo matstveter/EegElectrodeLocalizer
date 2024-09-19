@@ -39,8 +39,12 @@ Please cite this paper if the code is used:
 
 @article{10.1088/1741-2552/ad7c7e,
 	author={Tveter, Mats and Tveitstøl, Thomas and Nygaard, Tønnes and Pérez T, Ana S and Kulashekhar, Shrikanth and Bruña, Ricardo and Hammer, Hugo Lewi and Hatlestad-Hall, Christoffer and Hebold Haraldsen, Ira Ronit Juleica},
+ 
 	title={EEG electrodes and where to find them: automated localization from 3D scans},
+ 
 	journal={Journal of Neural Engineering},
+ 
 	url={http://iopscience.iop.org/article/10.1088/1741-2552/ad7c7e},
+ 
 	year={2024},
 }
